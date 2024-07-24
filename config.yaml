@@ -1,0 +1,49 @@
+baseurl: /
+title: SBAA
+languageCode: fr
+DefaultContentLanguage: fr
+paginate: '10'
+theme: hugo-dpsg
+Author:
+  avatar: img/LOGO-titre.jpg
+  bio: The Scout Master is the leader of this local scout group
+  name: Scout Master
+Params:
+  authorbox: no
+  copyright: SBAA Côte d'armor
+  dateformat: 02.01.2006
+  description: Page de garde de Saint-Brieuc armor Agglomération
+  footer:
+    right: Agglomération de Saint-Brieuc
+    text: '[Imprint and Privacy](/imprint)'
+  indexPager: yes
+  logo:
+    header: img/banniere.jpg
+    image: img/LOGO-SB-ARMOR-AGGLO-RVB-H-reserve.jpg
+    subtitle: Bienvenu sur le site de Saint-Brieuc Armor Agglomération
+    title: SBAA
+  mainSections:
+    - post
+    - blog
+    - news
+  opengraph: yes
+  pager: yes
+  post_meta:
+    - date
+    - categories
+    - translations
+  readmore: yes
+  schema: yes
+  sidebar:
+    home: no
+    list: left
+    single: no
+    widgets:
+      - categories
+  style:
+    vars:
+      highlightColor: '#003056'
+  toc: no
+  widgets:
+    recent_num: 4
+    tags_counter: no

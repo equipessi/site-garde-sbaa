@@ -1,0 +1,60 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+      <loc>http://localhost:3602/EmerickDushel/test4/post/la-route-des-terres-neuvas/</loc>
+      <lastmod>2024-07-19T14:13:14-05:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>http://localhost:3602/EmerickDushel/test4/</loc>
+      <lastmod>2024-07-19T14:13:14-05:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>http://localhost:3602/EmerickDushel/test4/post/</loc>
+      <lastmod>2024-07-19T14:13:14-05:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>http://localhost:3602/EmerickDushel/test4/post/la-baie-et-ses-plages/</loc>
+      <lastmod>2024-07-19T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>http://localhost:3602/EmerickDushel/test4/post/la-reserves-naturelle/</loc>
+      <lastmod>2024-07-19T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>http://localhost:3602/EmerickDushel/test4/tags/basic-elements/</loc>
+      <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>http://localhost:3602/EmerickDushel/test4/tags/css/</loc>
+      <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>http://localhost:3602/EmerickDushel/test4/tags/html/</loc>
+      <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>http://localhost:3602/EmerickDushel/test4/post/modele-article/</loc>
+      <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>http://localhost:3602/EmerickDushel/test4/tags/</loc>
+      <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>http://localhost:3602/EmerickDushel/test4/categories/</loc>
+    </url>
+    
+    <url>
+      <loc>http://localhost:3602/EmerickDushel/test4/contacts/</loc>
+    </url>
+    </urlset>
