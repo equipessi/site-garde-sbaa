@@ -1,2 +1,2 @@
 # webtest
-Le site est disponible est test [ici](https://newsitetest2.netlify.app/) 
+Le site est disponible en test [ici](https://newsitetest2.netlify.app/) 
